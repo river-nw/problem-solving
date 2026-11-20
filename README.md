@@ -1,2 +1,2 @@
-# leetcode-submissions
-My LeetCode solutions in primarily C++, focused on problem-solving and DSA.
+# problem-solving
+This repository contains my solutions to various coding problems from platforms like LeetCode, primarily implemented in C++.
